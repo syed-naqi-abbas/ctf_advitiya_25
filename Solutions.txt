@@ -1,0 +1,9 @@
+Level 3 -
+1. Went to robotics.txt
+2. Searched for disallowed paths
+3. found string in code/blog/gamma/zeta/delta/iota/zeta/nika.html
+
+4.Opened index.html
+5.Went to inspect element
+6. There was an array in which a path was mentioned \legal\iota\epsilon\eta\data.html
+7. Opened it and found password in bottom
